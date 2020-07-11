@@ -26,6 +26,7 @@
     padding: 1em 2em;
     color: #009688;
     transition: 0.25s;
+    cursor: pointer;
 }
 
 .Deck-btn:hover {
